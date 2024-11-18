@@ -59,3 +59,7 @@ app.get('/', (req, res) => {
     </html>
   `);
 });
+
+app.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}`);
+});
