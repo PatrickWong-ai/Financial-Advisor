@@ -53,7 +53,12 @@ app.get('/', (req, res) => {
     <body>
       <div class="container">
         <h1>Welcome to TPL6213</h1>
-        <p>Hello, world! This is ELECTron from TPL6213.</p>
+        <p>Hello, world! This is ELECTron from TPL6213.
+        Group members:
+        Patrick Wong Jun Wen
+        Dennis Chew Yu Heng
+        Kuan Ing Shien
+        Wong Chze Yee</p>
       </div>
     </body>
     </html>
