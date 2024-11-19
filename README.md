@@ -45,17 +45,6 @@ Smart Tutor is an AI-driven educational platform designed to help students maste
 - **Frontend**: HTML, CSS, JavaScript (or React for a dynamic interface)
 - **AI Engine**: LangChain
 - **Database**: MongoDB (for storing user data, quizzes, and progress)
-- **Deployment**: Render / Vercel
+- **Deployment**: Render
 - **Visualization**: Chart.js
-
----
-
-## **🔧 Setup and Installation**
-
-Follow these steps to run the project locally:
-
-### **1. Clone the Repository**
-```bash
-git clone https://github.com/your-username/smart-tutor.git
-cd smart-tutor
 
